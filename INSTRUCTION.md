@@ -1,6 +1,6 @@
 # Instructions - Vulkan Grass Rendering
 
-This is due **Tuesday 10/28 at 11:59pm**.
+This is due **Tuesday 10/27 at 11:59pm**.
 
 **QUICK NOTE**: Please use `git clone --recursive` when cloning this repo as there are submodules which need to be cloned as well.
 
