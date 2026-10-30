@@ -44,4 +44,3 @@ Using all three gave the lowest average frame time at 1.854 ms. This is about a 
 
 - [Khronos compute shader tutorial](https://docs.vulkan.org/tutorial/latest/11_Compute_Shader.html)
 - [Khronos synchronization examples](https://docs.vulkan.org/guide/latest/synchronization_examples.html)
-- Course Project 5 recitation slides for simulation, Bézier construction, and culling.
