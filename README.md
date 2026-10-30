@@ -6,6 +6,8 @@ Vulkan Grass Rendering
 * Author: Thomas Lee
 * Tested on: Windows 11 Pro, AMD Ryzen 9 7845HX, 64 GB RAM, NVIDIA GeForce RTX 4070 Laptop GPU (8 GB). Personal laptop.
 
+![Grass Demo](images/demograss.gif)
+
 ## Overview
 
 For this project, I used a compute shader to simulate the grass and tessellation to create the visible blades. Each blade is represented by a quadratic Bezier curve with three control points. I also store its orientation, height, width, and stiffness. Gravity, recovery, and wind move the tip, then I update the other control point to maintain the curve. I also keep the tip above the ground and correct the curve so its length stays approximately the same.
